@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "Giới Thiệu";
+}
+
+<div class="row">
+    <div class="col-sm-3">
+        <div class="left-sidebar">
+            <h2 style="color: #ff4654;margin-top:10px">Danh Mục Sản Phẩm</h2>
+            <div class="panel-group category-products">
+                @Html.Action("DanhMucLoai", "Home")
+            </div>
+            <div class="left-sidebar">
+                <h2 style="color: #ff4654">Nhà Sản Xuất</h2>
+                <div class="panel-group category-products">
+                    @Html.Action("DanhMucNhaSanXuat", "Home")
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-9 padding-right">
+        <div class="blog-post-area">
+            <h2 class="title text-center" style="color: #ff4654;margin-top:10px">Giới Thiệu</h2>
+            <div class="single-blog-post">
+                <h3>Cửa hàng tiện lơi VALORANT</h3>
+                <img src="~/Content/images/logo-tgdd.jpg" alt="">
+                <h5>Chuyên cung cấp các thực phẩm, đồ ăn, thức uống, các vật phẩm cá nhân.
+                </h5>
+                <br>
+                <h5>Các Sản phẩm chúng tôi đang phân phối trên thị trường hiện nay luôn đáp ứng các tiêu chí sau:
+                </h5>
+                <br>
+                <h5>-Giá cả hợp lý<br />
+                    <br />
+                    -Sản phẩm luôn đảm bảo chất lượng chính hãng;<br />
+                    <br />
+                    -Thông tin sản phẩm rõ ràng, minh bạch, tư vấn cụ thể từng loại hàng;<br />
+                    <br />
+                </h5>
+                <h5>
+                    Cửa hàng hoạt động 24/7, không gian thoáng đãng, có bàn ghế để ngồi ăn uống tại chỗ.
+                    Nhân viên luôn sẵn sàng phục vụ, giải đáp thắc mắc.
+                    Sản phẩm được trưng bày gọn gàng theo gian, khách hàng dễ dàng tìm kiếm.
+                    Mặt hàng đa dạng, an toàn vệ sinh thực phẩm.
+                    Có giá trên từng loại sản phẩm, tiện lợi cho khách hàng.
+                </h5>
+                
+            </div>
+        </div>
+    </div>
+</div>

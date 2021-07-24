@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Chi Tiết Thiết Bị";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using QL_ThietBiTinHoc.Models;
+@model ThietBi
+<div class="row">
+    <div class="product-details">
+        <div class="col-sm-5">
+            <div class="view-product">
+                <img src="~/Content/images/@Model.AnhBia" alt="" />
+            </div>
+        </div>
+        <div class="col-sm-7">
+            <div class="product-information">
+                <h2>@Model.TenThietBi</h2>
+                <h2>Mã Thiết Bị:@Model.MaThietBi</h2>
+                <h2>Thông tin chi tiết:</h2>
+                <h5>@Model.MoTa</h5>
+                <span>
+                    <span>Giá: @Model.GiaBan VNĐ</span>
+                </span>
+                <p><a href="@Url.Action("ThemGioHang", "GioHang", new { ma = @Model.MaThietBi })" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Chọn mua</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+

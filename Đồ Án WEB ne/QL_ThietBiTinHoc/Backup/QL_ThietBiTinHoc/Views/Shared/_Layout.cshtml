@@ -1,0 +1,160 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/Home/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/Home/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/Home/css/prettyPhoto.css" rel="stylesheet" />
+    <link href="~/Content/Home/css/price-range.css" rel="stylesheet" />
+    <link href="~/Content/Home/css/animate.css" rel="stylesheet" />
+    <link href="~/Content/Home/css/main.css" rel="stylesheet" />
+    <link href="~/Content/Home/css/responsive.css" rel="stylesheet" />
+    <link href="~/Content/Home/themes/default/default.css" rel="stylesheet" />
+    <link href="~/Content/Home/nivo-slider.css" rel="stylesheet" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <header id="header">
+        <div class="header-middle">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <div class="logo pull-left">
+                            <a href="#">
+                                <img src="~/Content/images/logo-tgdd.png" height="100px" width="300px" /></a>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div>
+                            <br />
+                            <br />
+                            <br />  
+                        </div>
+                        <div class="search_box pull-right">
+                            <form class="form-inline" action="@Url.Action("TimKiem", "Home")" method="post">
+                                <input type="text" style="width:250px;height:50px" class="form-control" placeholder="Nhập thông tin thiết bị" name="timkiem" aria-label="Username" aria-describedby="addon-wrapping">
+                                <button class="btn btn-dark" style="background-color: #00CCFF;height:50px;width : auto " type="submit" name="btntimkiem">Search</button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="shop-menu pull-right">
+                            <ul class="nav navbar-nav">
+                                <li>
+                                    @if (Session["Taikhoan"] != null)
+                                    {
+                                        QL_ThietBiTinHoc.Models.KhachHang kh = (QL_ThietBiTinHoc.Models.KhachHang)@Session["Taikhoan"];
+                                        <h4>Chào bạn , @kh.TaiKhoan</h4>
+                                    }
+                                </li>
+                                <br />
+                                <br />
+                                <br />
+                                <li>@Html.Action("GioHangPartial", "GioHang")</li>
+                                <li>
+                                    @if (Session["Taikhoan"] != null)
+                                    {
+                                        <a href="@Url.Action("DangXuat", "KhachHang")"><i class="fa fa-lock"></i>Đăng Xuất</a>
+                                    }
+                                    else
+                                    {
+                                        <a href="@Url.Action("DangKyVaDangNhap", "KhachHang")"><i class="fa fa-lock"></i>Đăng Nhập | Đăng Ký</a>
+                                    }
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="header-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-2">
+
+                    </div>
+                    <div class="col-sm-8">
+                        <div class="mainmenu pull-left">
+                            <ul class="nav navbar-nav collapse navbar-collapse">
+                                <li><a href="@Url.Action("Index", "Home")" class="active" style="color:black;font-weight:bold">TRANG CHỦ</a></li>
+                                <li><a href="@Url.Action("GioiThieu", "Home")"style="color:black;font-weight:bold">GIỚI THIỆU</a></li>
+                                <li><a href="@Url.Action("DanhSachThietBi", "Home")"style="color:black;font-weight:bold">DANH MỤC THIẾT BỊ</a></li>
+                                <li><a href="@Url.Action("TinTuc", "Home")" style="color:black;font-weight:bold">TIN TỨC</a></li>
+                                <li><a href="@Url.Action("LienHe", "Home")" style="color:black;font-weight:bold">LIÊN HỆ</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-2">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section>
+        <div class="container">
+            @RenderBody()
+        </div>
+    </section>
+
+    <footer id="footer" style="background-color:white">
+        <div class="footer-widget">
+            <div class="container">
+                <section class="section section-policy">
+                    <div class="container-fluid"  >
+                        <div class="policy-list-content">
+                            <div class="policy_item col-md-4 col-sm-4 col-xs-12">
+                                <div class="policy_icon ratiobox">
+                                    <img class=" ls-is-cached lazyloaded" data-src="//theme.hstatic.net/1000406564/1000647212/14/policy_icon_1.png?v=414" src="//theme.hstatic.net/1000406564/1000647212/14/policy_icon_1.png?v=414" alt="icon">
+                                </div>
+                                <div class="policy_description">
+                                    <h4 class="policy_title" style="color: #33CCFF">Giao hàng nhanh chóng.</h4>
+                                    <h4>Miễn phí với đơn hàng trên 3 triệu.</h4>
+                                </div>
+                            </div>
+                            <div class="policy_item col-md-4 col-sm-4 col-xs-12">
+                                <div class="policy_icon ratiobox">
+                                    <img class=" ls-is-cached lazyloaded" data-src="//theme.hstatic.net/1000406564/1000647212/14/policy_icon_2.png?v=414" src="//theme.hstatic.net/1000406564/1000647212/14/policy_icon_2.png?v=414" alt="icon">
+                                </div>
+                                <div class="policy_description">
+                                    <h4 class="policy_title" style="color: #33CCFF">Chính sách bảo hành</h4>
+                                    <h4>Bảo hành 12 tháng, đổi trả 15 ngày.</h4>
+                                </div>
+                            </div>
+                            <div class="policy_item col-md-4 col-sm-4 col-xs-12">
+                                <div class="policy_icon ratiobox">
+                                    <img class=" ls-is-cached lazyloaded" data-src="//theme.hstatic.net/1000406564/1000647212/14/policy_icon_3.png?v=414" src="//theme.hstatic.net/1000406564/1000647212/14/policy_icon_3.png?v=414" alt="icon">
+                                </div>
+                                <div class="policy_description">
+                                    <h4 class="policy_title" style="color: #33CCFF">Hỗ trợ 24/7</h4>
+                                    <h4>Với các kênh chat, email &amp; phone</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </footer>
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+</body>
+<script src="~/Content/Home/js/jquery.js"></script>
+<script src="~/Content/Home/js/bootstrap.min.js"></script>
+<script src="~/Content/Home/js/jquery.scrollUp.min.js"></script>
+<script src="~/Content/Home/js/price-range.js"></script>
+<script src="~/Content/Home/js/jquery.prettyPhoto.js"></script>
+<script src="~/Content/Home/js/main.js"></script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="~/Content/Home/jquery.nivo.slider.js"></script>
+<script type="text/javascript">
+    $(window).load(function () {
+        $('#slider').nivoSlider();
+    });
+</script>
+</html>

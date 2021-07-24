@@ -1,0 +1,79 @@
+﻿@{
+    ViewBag.Title = "GioHang";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using QL_ThietBiTinHoc.Models;
+@model List<GioHang>
+
+<section id="cart_items">
+    <div class="container">
+        @if (Model == null || Model.Count() == 0)
+        {
+            <p style="font-size: 2em; padding: 10px; margin: 10px">Giỏ hàng rổng !! </p>
+            <a href="@Url.Action("DanhSachThietBi", "Home")" style="font-size:2em;padding:10px;margin:10px">Vui lòng quay trở lại trang mua hàng !! </a>
+            <br />
+            <br />
+        }
+        else
+        {
+            <div class="table-responsive cart_info">
+                <table class="table table-condensed">
+                    <thead>
+                        <tr class="cart_menu">
+                            <td class="image">Thiết Bị</td>
+                            <td class="description"></td>
+                            <td class="price">Giá bán</td>
+                            <td class="quantity">Số Lượng</td>
+                            <td class="total">Tổng Giá Bán</td>
+                            <td class="delete"></td>
+                            <td></td>
+                        </tr>
+                    </thead>
+
+                    @foreach (var tb in Model)
+                    {
+                        <tr>
+                            <td class="cart_product">
+                                <img src="~/Content/images/@tb.sAnhBia" width="140" height="200" alt="">
+                            </td>
+                            <td class="cart_description">
+                                <h5>@tb.TenThietBi</h5>
+                                <h5>Mã Thiết Bị: @tb.MaThietBi</h5>
+                                <a href="@Url.Action("ChiTietThietBi", "Home", new { ma = @tb.MaThietBi })" class="btn btn-default add-to-cart">Chi Tiết</a>
+                            </td>
+                            <td class="cart_price">
+                                <p>@tb.sGiaBan</p>
+                            </td>
+                            <td class="cart_total">
+                                <a href="@Url.Action("ThemGioHang", "GioHang", new { ma = @tb.MaThietBi })" class="btn btn-default add-to-cart">+</a>
+                                <p class="cart_total_price">@tb.sSoLuong</p>
+                                <a href="@Url.Action("GiamGioHang", "GioHang", new { ma = @tb.MaThietBi })" class="btn btn-default add-to-cart">-</a>
+                            </td>
+                            <td class="cart_total">
+                                <p class="cart_total_price">@tb.sThanhTien</p>
+                            </td>
+                            <td class="cart_delete">
+                                <a class="cart_quantity_delete" href="@Url.Action("XoaMatHang", "GioHang", new { ma = @tb.MaThietBi })"><i class="fa fa-times"></i></a>
+                            </td>
+                        </tr>
+                    }
+
+                    <tr>
+                        <td>
+                            <h2>Số lượng: <a style="color: red">@ViewBag.TongSoLuong</a></h2>
+                        </td>
+                        <td>
+                            <h2>Tổng số tiền: <a style="color: red">@String.Format("{0:0,0}", @ViewBag.TongTien)</a> VNĐ</h2>
+                        </td>
+                    </tr>
+                </table>
+                <div>
+                        <a href="@Url.Action("XoaGioHang", "GioHang")" class="btn btn-default add-to-cart">Xóa Giỏ Hàng</a>
+                        <a href="@Url.Action("DanhSachThietBi", "Home")" class="btn btn-default add-to-cart">Tiếp Tục Mua Hàng</a>
+                        <a href="@Url.Action("DatHang", "GioHang")" class="btn btn-default add-to-cart">Đặt Hàng</a>
+                </div>
+            </div>
+        }
+    </div>
+</section>

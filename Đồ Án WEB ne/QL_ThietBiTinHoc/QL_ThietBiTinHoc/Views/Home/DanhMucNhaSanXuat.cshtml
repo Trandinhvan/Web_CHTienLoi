@@ -1,0 +1,11 @@
+﻿@using QL_ThietBiTinHoc.Models;
+@model List<NhaSanXuat>
+
+@foreach (var tennhasx in Model)
+{
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title" style="color:black"><a href="@Url.Action("HienThiThietBiTheoNSX", "Home", new {ma = @tennhasx.MaNSX })">@tennhasx.TenNSX</a></h4>
+        </div>
+    </div>
+}

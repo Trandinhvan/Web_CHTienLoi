@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "Tin Tức";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-sm-3">
+        <div class="left-sidebar">
+            <h2 style="color:#33CCFF">Danh Mục Thiết Bị</h2>
+            <div class="panel-group category-products">
+                @Html.Action("DanhMucLoai", "Home")
+            </div>
+            <div class="left-sidebar">
+                <h2 style="color:#33CCFF">Nhà Sản Xuất</h2>
+                <div class="panel-group category-products">
+                    @Html.Action("DanhMucNhaSanXuat", "Home")
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-9 padding-right">
+        <div class="blog-post-area">
+            <h2 class="title text-center" style="color:#33CCFF">Tin Tức</h2>
+            <div class="single-blog-post">
+                <h3>Công Ty TNHH Thiết Bị Điện Tử TGDD</h3> 
+                <img src="~/Content/images/logo-tgdd.jpg" alt="">
+                <h5>Chuyên phân phối buôn và lẻ các loại thiết bị điện tử cao cấp nhập từ Hàn Quốc , Pháp và Nhật Bản.
+                </h5>
+                <br>
+                <h5>Các sản phẩm chúng tôi đang phân phối trên thị trường hiện nay luôn đáp ứng  các tiêu chí sau:
+                </h5>
+                <h5>
+                    -Giá cả luôn rẻ nhất thị trường.<br />
+                    <br />
+                    -Sản phẩm luôn đảm bảo chất lượng chính hãng;<br />
+                    <br />
+                    -Thông tin sản phẩm rõ ràng, minh bạch, tư vấn cụ thể từng loại hàng;<br />
+                    <br />
+                </h5>      
+            </div>
+        </div>
+    </div>
+  </div>

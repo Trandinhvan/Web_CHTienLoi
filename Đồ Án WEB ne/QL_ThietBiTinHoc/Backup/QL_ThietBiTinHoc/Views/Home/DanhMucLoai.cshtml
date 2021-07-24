@@ -1,0 +1,11 @@
+﻿@using QL_ThietBiTinHoc.Models;
+@model List<Loai>
+
+@foreach (var tenloai in Model)
+{
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title"><a href="@Url.Action("HienThiThietBiTheoLoai", "Home", new {ma = @tenloai.MaLoai })">@tenloai.TenLoai</a></h4>
+        </div>
+    </div>
+}

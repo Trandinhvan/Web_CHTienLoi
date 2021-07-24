@@ -1,0 +1,94 @@
+﻿@using QL_ThietBiTinHoc.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<QL_ThietBiTinHoc.Models.ThietBi>
+@helper Truncate(string input, int lenght){
+    if(input.Length<lenght){
+        @input
+    }
+    else{
+        @input.Substring(0,lenght)<text>...</text>
+    }
+}
+@{
+    ViewBag.Title = "Quản lí thiết bị";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Quản lí thiết bị</h2>
+
+<p>
+    @Html.ActionLink("Thêm Thiết Bị Mới","ThemThietBiMoi","Home")
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.First().TenThietBi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().GiaBan)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().MoTa)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().NgayCapNhat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().AnhBia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().SoLuongTon)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().MaLoai)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().MaNSX)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @*@Html.DisplayFor(modelItem => item.TenThietBi)*@
+            @Truncate(item.TenThietBi,20)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GiaBan)
+        </td>
+        <td>
+            @Truncate(item.MoTa,40)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NgayCapNhat)
+        </td>
+        <td>
+            <img src="@Url.Content("~/Content/images/"+item.AnhBia)" width="70" height="140"/>
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SoLuongTon)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Loai.TenLoai)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NhaSanXuat.TenNSX)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "#", new { id=item.MaThietBi }) |
+            @Html.ActionLink("Details", "#", new { id=item.MaThietBi }) |
+            @Html.ActionLink("Delete", "#", new { id=item.MaThietBi })
+        </td>
+    </tr>
+}
+
+</table>
+<div class="MenuTrang">
+    @Html.PagedListPager(Model, page=>Url.Action("Index",new{page=page}))
+</div>
+<style>
+    .MenuTrang li {
+        display: inline;
+    }
+</style>

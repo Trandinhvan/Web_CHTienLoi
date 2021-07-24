@@ -1,0 +1,207 @@
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csprojResolveAssemblyReference.cache
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csprojResolveAssemblyReference.cache
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll.config
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csprojResolveAssemblyReference.cache
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll.config
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+C:\Users\Lenovo\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csprojResolveAssemblyReference.cache

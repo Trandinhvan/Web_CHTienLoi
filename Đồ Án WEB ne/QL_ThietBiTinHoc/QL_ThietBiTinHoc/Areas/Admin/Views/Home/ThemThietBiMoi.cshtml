@@ -1,0 +1,99 @@
+﻿@model QL_ThietBiTinHoc.Models.ThietBi
+
+@{
+    ViewBag.Title = "ThemThietBiMoi";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ThemThietBiMoi</h2>
+
+@using (Html.BeginForm("ThemThietBiMoi", "Home", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>ThietBi</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.TenThietBi)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.TenThietBi)
+            @Html.ValidationMessageFor(model => model.TenThietBi)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.GiaBan)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.GiaBan)
+            @Html.ValidationMessageFor(model => model.GiaBan)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.MoTa)
+        </div>
+        <div class="editor-field">
+            @*@Html.EditorFor(model => model.MoTa)
+            @Html.ValidationMessageFor(model => model.MoTa)*@
+            <textarea name="Mota">Mô tả thông tin sách</textarea>
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.NgayCapNhat)
+        </div>
+        <div class="editor-field">
+            @*@Html.EditorFor(model => model.NgayCapNhat)*@
+            <input type="date" name="Ngaycapnhat" />
+            @Html.ValidationMessageFor(model => model.NgayCapNhat)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.AnhBia)
+        </div>
+        <div class="editor-field">
+            @*@Html.EditorFor(model => model.AnhBia)*@
+            <input type="file" name="fileupload" />
+            @Html.ValidationMessageFor(model => model.AnhBia)
+            @ViewBag.Thongbao
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.SoLuongTon)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.SoLuongTon)
+            @Html.ValidationMessageFor(model => model.SoLuongTon)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.MaLoai)
+        </div>
+        <div class="editor-field">
+            @*@Html.EditorFor(model => model.MaLoai)
+            @Html.ValidationMessageFor(model => model.MaLoai)*@
+            @Html.DropDownList("MaLoai")
+            @Html.ValidationMessageFor(model => model.MaLoai)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.MaNSX)
+        </div>
+        <div class="editor-field">
+            @*@Html.EditorFor(model => model.MaNSX)
+            @Html.ValidationMessageFor(model => model.MaNSX)*@
+            @Html.DropDownList("MaNSX")
+            @Html.ValidationMessageFor(model => model.MaNSX)
+        </div>
+
+        <p>
+            <br />
+            <input type="submit" value="Thêm mới"/>
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("VỀ TRANG QUẢN LÝ THIẾT BỊ", "Index")
+</div>
